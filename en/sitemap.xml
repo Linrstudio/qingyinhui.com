@@ -5,11 +5,8 @@
     <loc>http://www.qingyinhui.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.qingyinhui.com/contact/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.qingyinhui.com/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -21,17 +18,17 @@
                 href="http://www.qingyinhui.com/"
                 />
   </url><url>
-    <loc>http://www.qingyinhui.com/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.qingyinhui.com/post/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.qingyinhui.com/post/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.qingyinhui.com/post/restart/</loc>
+    <lastmod>2019-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.qingyinhui.com/tags/restart/</loc>
+    <lastmod>2019-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.qingyinhui.com/tags/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -42,6 +39,15 @@
                 hreflang="en"
                 href="http://www.qingyinhui.com/tags/"
                 />
+  </url><url>
+    <loc>http://www.qingyinhui.com/contact/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.qingyinhui.com/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.qingyinhui.com/post/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.qingyinhui.com/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
